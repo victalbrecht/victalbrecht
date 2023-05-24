@@ -1,6 +1,8 @@
 # Hello! 👋🏻
 
-Hi, I'm Victor Albrecht, a Senior Front-end Engineer.
+Hi, I'm Victor Albrecht, a Senior Front-end Engineer. Currently working mainly with Angular and its related technologies.
+
+📌 <code>Porto Alegre, Rio Grande do Sul - Brazil</code>
 
 <br />
 
@@ -164,18 +166,33 @@ Hi, I'm Victor Albrecht, a Senior Front-end Engineer.
 
 ## 🚀 Some of my projects
 
-<a href="https://github.com/victalbrecht/lol-client-login">League of Legends Client Login Screen</a>
+<a href="https://github.com/victalbrecht/lol-client-login">
+  <img src="https://raw.githubusercontent.com/victalbrecht/lol-client-login/master/src/assets/img/favicon.ico" alt="League of Legends Client Icon">
+  League of Legends Client Login Screen
+</a>
 
-<a href="https://github.com/victalbrecht/gulpjs-base-project">Base Front-end Project with gulp.js</a>
+<br />
+
+<a href="https://github.com/victalbrecht/gulpjs-base-project">
+  <img src="https://raw.githubusercontent.com/victalbrecht/gulpjs-base-project/master/src/assets/img/favicon.ico" alt="gulp.js Icon">
+  Base Front-end Project with gulp.js
+</a>
 
 <br />
 
 ## 🔍 Where to find me
 
-<a href="https://www.linkedin.com/in/victoralbrecht">
+<div>
+  <a href="https://www.linkedin.com/in/victoralbrecht">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-282C34?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAACNFBMVEVHcEwJPVoNR2gJQ2IDM04QS2wMRmcPSmsOSWoNSGkKP1wWisoENU8DNE8ENVAFNlECMk0QTG0GN1ICMkwGOFMBMUwHOVQBMUsHM0wRTW4BK0MIQWERTm8ThsYJO1cDcKwST3ARSGcRSGcmoOQBMEsTUHEST3ETUHELRWUHQGABOFYMRmYST3ACOVcGPl0HP14COVgDOlkDO1oEPFsFPVwSTnAMR2gRTW8NSGkOSWoPSmsQS20QTG7+/PwcktMVickShcQZjs4PgL8Uh8cakNEKergQgsElnuENfrwGdLH9+/sXjMwfltgdlNUgmNoId7QHdbIXi8wXi8sbkNEEca4MfLomn+IjnN8HdrMIeLUhmdsdlNYZjs8WisoMfLsJeLZYpdAJebYNfr03lck5lMchmtwhmdwaj9AFdLAfltcbkdMYjc4Le7kEcq8dk9U6n9Yjm95jtuQShMSeyuKRxOEsl9IUf7okjcZMreMtmdbP5fIsldAMfbtKqd6eyuNbqdVSpdORxeNWqdf09/nz9vmfy+UUh8YujsMOf74knd9UoMrm8fg3peKBvd8vlM2n0OdTptUll9aUyefr8/mRxuRTp9UQgcCSyOaSx+W+3/Ivj8URhMO72uxTn8lYrt36+vsFcq8+pNwRg8Lg7fVUqNdXrNtWqtng7fYim907pN0xkcc7mMthq9UFc6/h7/fa6fLg7vYLfLr8+vsKercimt0fl9nh7vceldYelNYfl9jh7vYcktTyKn+uAAAAPXRSTlMAID8/Nz8/Pz8/IPc3Nzc3Nz83Nzc3NzccPxo/P/ck9T8iJvkePz9HRz8/R0c/Pz8/Pz8/P0dHR0dHR0dH58sKZAAAARVJREFUGNMVzdNiAwEQAMCtbdu2uZdcfEkau7Zt27Zt2z/X9HGeBiAgJNTf28PBxMzcwtDUEiAwSMWdbioXCXMJeZ7AygDCVNy5rgqRMIdgkYJ8phFEc9Wz2Fz9bymNSfeCFPXV9mp/Q01lrUzvkwhIe9NdHy93N7b3jizQOYw4yNa9P+DBCvaM4eEdgxcLWd+fH3i+iaPze/jIUyZD5tfvD15s4eLuLb48s5Mgg5A/4dkajm/cIP9VmwjpLPIS14dxYGoH+VpNAqSS0lMcasPWvknka6h4iJLRlgY7S4vK6jpm9qn7GAinTej7kgJ2sVhCHSkiwdenhcPgKdmFYklVvcIvGMDd1dnRztbaxtjeycXNE/4AmCNWRc2eOXgAAAAASUVORK5CYII="
+      alt="LinkedIn Logo"
+    />
+  </a>
   <img
-    src="https://img.shields.io/badge/LinkedIn-282C34?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAADwUExURSNZgiJZgiBYgSNagiNagyFZgiJZgiJZgiJZgiJZgiJZgiJZgiNagyRagyNagyJZgiJZgiRagyVbhCJZgiNagyVbhCRagyJZgiJZgiJZgiJZgiNZgiNZgiJZgiJZgiJZgiRagyJZgiJZgiNZgiRagyVbhCZchCZchCVbhCJZgiJZgiVbhCJZgjRmjCdchSZchD5ukiNagyJZgiVbhCJZgiZchCNagiNagyZchCNagyRbgyNagyNagyVbgyJZgiJZgiVbhCJZgiVbhCJZgiJZgiJZgiNagyJZgiJZgiJZgiNagyJZgiJZgiJZgiJZgv///9GAwEUAAABOdFJOUwAAAAAAALTtsfr2+79fq/73TzHvkiN37s7o89Ta+YIjZ/VmJGxLEhlr8GlIRwUXFgKoaklJMNHHIXhmRWtrSGhGRmhFolmN+I1aoozKxmX+7MAAAAABYktHRE9uZkFJAAAAB3RJTUUH5wUYBxQjE17BOAAAAJlJREFUGNNjYGNHARwMnH4ogIuB24+Hl48fLiDAwM0tyCAkjKJCRFSME0VAXELST1iSS0paRhYiICevoKikrKKqpq6hCRbQYtCW0mHU1dNnMjAECxgxG0uZsJiamVswWiIEGK38OK0ZbRACrLZ+snaMRtgF7BkdpBwZnfxknRntwQIurm7uHp5eftzeni4gp6N6ToDBB1XAFwDhBS885TFZWAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wNS0yNFQwNzoxNjowMiswMDowMC0fIr4AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDUtMjRUMDc6MTY6MDIrMDA6MDBcQpoCAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTA1LTI0VDA3OjIwOjM1KzAwOjAw1IOU9gAAAABJRU5ErkJggg=="
-    alt="LinkedIn Logo"
+    src="https://img.shields.io/badge/victalbrecht@live.com-282C34?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAIxUExURQAAAAZQmwZPmgB41AJuxhKH0yip6yio6gZQmwZQmwZQmwZPmgZPmgZPmgZPmgVOmQVNmQRNmQRNmQRNmQNjtgNktyuUzSuUzQB41AB41AB31AB10AB0zVHc/1Hc/wB41AB41AB20wB41AB10VHa/1Ha/zzB9T3C9iem6SWd3yac3hBEhQB21AB30gFzyAB52ApvsxVplyaY0SSW0Sip6yip6yip6yip6yio6yio6iOe4BmN0Sio6iio6iio6iip6yqs7SWg4gNkuANktw1wvRd8whd7whl+wymRyyuUzQB0zQByyhSK1Smq6yip6y2v7k3W/1Lc/wB30gBvxRN4timo6Sip6i2u7UzV/VHa/wB41AF41DuX3orB6zyY3gF51QBwyApoqhSP3RSQ3xiV4Ti78jzB9QB31C2Q3Mvk9pXH7ZDE7Mrj9jOT3QBvxgBbogB20gR81iOi5yin6gB202mw5rzc9A+A1w1/1rra82ux5wBuxgFbogB40wB41QR+1ySk6Cmq7Gqw5rrb9A6A1mqx5wBtxQJTlwFtxQFuxgNyyRKM3BWJ1RZ8xBFrtDCR3Mni9i6R3QBtwwNKiQNjtgNhtQRpvQtzxBGH1hSR4IvC7DyY3wB51gFyyAtVkQddrAVcrAtothGC0RSP3gBxxwFzyARvvBt8sR6MzxV8whOFzxSO3BZplhZplSCGuyio6iem5x+X2haJ0BOJ1CSW0Saf3iWi5B2T1xWJ0BOK1v///7gl/F0AAABCdFJOUwAAAAAAAAAAAxkfFsLj4uLi48AZGuXjHxkcGjXm4h/b4+Pm/OIf4R/jIfaa4+b8GjXmGuUWwuPi4uLi2QMZHx8fHALknW0AAAABYktHRLqjsUfaAAAAB3RJTUUH5wUYEwECc6083gAAAAFvck5UAc+id5oAAAEKSURBVBjTY2BgYGDk4OSCAk4OIJ+BiZuHl4+Pn59fQFBImIGZmZlFRNTJ2cXVzd3DU0ycQUJSUkpaxsvbx9fPPyBQVo5BXkFRQUk5KDgkNCw8IlJFlSEqOiY2Ni4+ITEpOSU1TU2dIT0jMys7JzcvvyC9sKhYQ5OhpLSsvKKyqrqmtq6+oVFLm6GkqbmlorK1rb2js6u7p7ePIb0fqGXCxEmTpzhPnTZ9xkyGqKiY2Fmz58ydN3/BwkWLZyYDrdXR1VuydNnyFStXrU5OTgY6TN/AcM2atevWb9i4afPqZKDTWY2Mt2zZsnX9+vXbtu/YCfQbm4mpmbm5hSUIWFkDBdhtbO2gwN7BEQAbtlQNJ/qhmgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wNS0yNFQxOTowMDo1OSswMDowMMyBOmEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDUtMjRUMTk6MDA6NTkrMDA6MDC93ILdAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTA1LTI0VDE5OjAxOjAyKzAwOjAwT+ySogAAAABJRU5ErkJggg=="
+    alt="Outlook Logo"
   />
-</a>
+</div>
+
 
