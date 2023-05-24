@@ -1,6 +1,6 @@
 # Hello! 👋🏻
 
-Hi, I'm Victor Albrecht, a Senior Front-end Engineer. Currently working mainly with Angular and its related technologies.
+<code>Hi, I'm Victor Albrecht, a Senior Front-end Engineer with over 5 years of experience. Currently working mainly with Angular and its related technologies.</code>
 
 📌 <code>Porto Alegre, Rio Grande do Sul - Brazil</code>
 
@@ -167,15 +167,13 @@ Hi, I'm Victor Albrecht, a Senior Front-end Engineer. Currently working mainly w
 ## 🚀 Some of my projects
 
 <a href="https://github.com/victalbrecht/lol-client-login">
-  <img src="https://raw.githubusercontent.com/victalbrecht/lol-client-login/master/src/assets/img/favicon.ico" alt="League of Legends Client Icon">
-  League of Legends Client Login Screen
+  <code><img src="https://raw.githubusercontent.com/victalbrecht/lol-client-login/master/src/assets/img/favicon.ico" alt="League of Legends Client Icon"> League of Legends Client Login Screen</code>
 </a>
 
 <br />
 
 <a href="https://github.com/victalbrecht/gulpjs-base-project">
-  <img src="https://raw.githubusercontent.com/victalbrecht/gulpjs-base-project/master/src/assets/img/favicon.ico" alt="gulp.js Icon">
-  Base Front-end Project with gulp.js
+   <code><img src="https://raw.githubusercontent.com/victalbrecht/gulpjs-base-project/master/src/assets/img/favicon.ico" alt="gulp.js Icon"> Base Front-end Project with gulp.js</code>
 </a>
 
 <br />
