@@ -179,6 +179,7 @@ Hi, I'm Victor Albrecht, a Senior Front-end Engineer. Currently working mainly w
 </a>
 
 <br />
+<br />
 
 ## 🔍 Where to find me
 
