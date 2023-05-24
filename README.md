@@ -1,7 +1,7 @@
 
 # Hello! 👋🏻
 
-My name is Victor Albrecht, I'm a Senior Front-end Engineer.
+Hi, I'm Victor Albrecht, a Senior Front-end Engineer.
 
 <br />
 
@@ -14,6 +14,7 @@ My name is Victor Albrecht, I'm a Senior Front-end Engineer.
 	<img src="https://img.shields.io/badge/AngularJS-282C34?logo=" alt="AngularJS Logo" />
 	<img src="https://img.shields.io/badge/jQuery-282C34?logo=" alt="jQuery Logo" />
   <img src="https://img.shields.io/badge/Webpack-282C34?logo=" alt="Webpack Logo" />
+	<img src="https://img.shields.io/badge/gulp.js-282C34?logo=" alt="gulp.js Logo" />
   <img src="https://img.shields.io/badge/RxJS-282C34?logo=" alt="RxJS Logo" />
   <img src="https://img.shields.io/badge/NgRx-282C34?logo=" alt="NgRx Logo" />
   <img src="https://img.shields.io/badge/npm-282C34?logo=" alt="npm Logo" />
@@ -36,7 +37,6 @@ My name is Victor Albrecht, I'm a Senior Front-end Engineer.
   <img src="https://img.shields.io/badge/CI/CD-282C34?logo=" alt="CI/CD Logo" />
 	<img src="https://img.shields.io/badge/Figma-282C34?logo=" alt="Figma Logo" />
 	<img src="https://img.shields.io/badge/Adobe XD-282C34?logo=" alt="Adobe XD Logo" />
-  <img src="https://img.shields.io/badge/Scrum-282C34?logo=" alt="Scrum Logo" />
   
 </div>
 
@@ -48,6 +48,12 @@ My name is Victor Albrecht, I'm a Senior Front-end Engineer.
 	<img src="https://img.shields.io/badge/React-282C34?logo=" alt="React Logo" />
 	<img src="https://img.shields.io/badge/GraphQL-282C34?logo=" alt="GraphQL Logo" />
 </div>
+
+<br />
+
+## 🚀 Some of my projects
+
+<code><\!-- under construction --></code>
 
 <br />
 
