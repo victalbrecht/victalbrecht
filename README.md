@@ -1,8 +1,6 @@
 # Hello! 👋🏻
 
-<code>Hi, I'm Victor Albrecht, a Senior Front-end Engineer with over 5 years of experience. Currently working mainly with Angular and its related technologies.</code>
-
-📌 <code>Porto Alegre, Rio Grande do Sul - Brazil</code>
+Hi, I'm Victor, a passionate Senior Front-end Engineer with over 5 years of experience. Currently working mainly with Angular and its related technologies.
 
 <br />
 
