@@ -1,8 +1,8 @@
-## Hello! 👋🏻
+# Hello! 👋🏻
 
-#### I'm Victor, a Front-End Developer with over 7 years of experience, building modern and scalable web applications, working with React, Next.js, Angular, and Micro Front-ends. Over the years, I've developed high-performance applications across different industries. I’m passionate about writing clean, modular code that not only improves collaboration but also makes applications more scalable and maintainable. I'm also always looking for ways to push the front-end development boundaries while keeping the user experience top of mind.
+I'm Victor, a Front-End Developer with over 7 years of experience, building modern and scalable web applications, working with React, Next.js, Angular, and Micro Front-ends. Over the years, I've developed high-performance applications across different industries. I’m passionate about writing clean, modular code that not only improves collaboration but also makes applications more scalable and maintainable. I'm also always looking for ways to push the front-end development boundaries while keeping the user experience top of mind.
 
-##### Feel free to check out my projects and see what I’ve been working on!
+#### Feel free to check out my projects and see what I’ve been working on!
 
 <br />
 
